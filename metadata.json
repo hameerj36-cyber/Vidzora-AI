@@ -1,0 +1,7 @@
+{
+  "name": "Vidzora AI",
+  "description": "AI Video and Image Generator for Shorts and Vlogs up to 60 seconds with advanced styles, scripting, and backend generation queue.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
